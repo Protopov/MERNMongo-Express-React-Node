@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "eduard vin",
+  "mongoUri": "mongodb+srv://Eduard:10105100@cluster0.keern.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
